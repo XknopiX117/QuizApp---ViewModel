@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quiz Game</string>
+
+    <string name="btnPlay">Jugar</string>
+    <string name="btnOption">Opciones</string>
+    <string name="txtDifficulty">Dificultad</string>
+    <string name="btnPrev">Anterior</string>
+    <string name="btnNext">Siguiente</string>
+
+    <string name="txtQuestionNumber">Pregunta</string>
+    <string name="btnHint">Pistas:</string>
+
+    <string name="txtLogoDesc">Imagen del logo</string>
+
+    <string name="txtGameOptions">"Opciones del juego"</string>
+    <string name="txtInProgress">"Sección en desarrollo"</string>
+
+    <string name="txtCongrats">"¡Muchas felicidades!"</string>
+
+    <string-array name="difficulty">
+        <item>Fácil</item>
+        <item>Normal</item>
+        <item>Difícil</item>
+    </string-array>
+
+</resources>
